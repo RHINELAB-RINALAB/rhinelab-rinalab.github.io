@@ -1,0 +1,191 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "RHINELAB",
+    "section": "",
+    "text": "RHINELAB-RINALAB - Theoretical Modelling and Artificial Intelligence Laboratory\n\n\nFocusing on theoretical analysis, foundational researches, and dissections with adversarial verifications of theoretical bodies.\n\nWelcome to the main website of RHINELAB-RINALAB, a theoretical and semi-experimental research laboratory in-formation.\nAt the moment, we are in the process of working out foundation, build-up only at present, with the goal to investigate the theoretical aspects, the assumption stacks, the scaffolding and dependencies, simplification gaps thereof between fields and subject of interest. Specifically, we are interested in\n\nArtificial intelligence and its theory of the mind, interdisciplinary as it is, but to look at the foundational questions and ask of the relevant clarification;\nTheoretical computer science and the expansion of computers in more general terms - may or may not Turing, but the middle-ground in-between actual complex devices;\nTheory of modelling, where model takes precedence of any theoretical bodies of studies, be physics or biologies, targeting the theoretical-practical mismatch, abstraction corruptions, layering drifts, the ontological and epistemic techniques and framework of mathematical model;\n\nThose, and physics, both practical consideration and theoretical foundational topics, such as mathematical physics, material sciences and so on. Additionally, we also host practical works, for example, improving existing framework - NLP-LLM structures on observed dilemma (catastrophic forgetting or language drift, for example), material science designs for cancerous detection/solvent application, and hardware-hardwired neural formalism structures, which is a project in itself of the lab.\n\n\n\n\n\n\n\nCurrently, we are accepting team-members and collaborators, please see the about page for more information for that matter. Current list of laboratory (fancy name, but rather just direction of research) can be found in the research page, project page, and current list of members and collaborators associated as in people page. Please note that the website are in progress and many of the preparation are not finished, so it would take a while until everything are in place for developments.\n\n\n\n\n\n\nNote\n\n\n\nCurrently, the website is static, and thus it requires compilation. Because it uses Quarto as the base, which is a deliberate positioning choice for prototyping, I guess we will have to be ado with other subjects in the meantime. For now, modification to the website is locked to Directors and Leader."
+  },
+  {
+    "objectID": "contents/resource/resources.html",
+    "href": "contents/resource/resources.html",
+    "title": "Resources",
+    "section": "",
+    "text": "For the purpose of logistics, we list here our perorative and contents, infrastructures and access points to active developments."
+  },
+  {
+    "objectID": "contents/publication/more-publications.html",
+    "href": "contents/publication/more-publications.html",
+    "title": "More Publications",
+    "section": "",
+    "text": "Order By\n      Default\n      \n        Title\n      \n      \n        Journal\n      \n      \n        Year - Oldest\n      \n      \n        Year - Newest\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n \n\n\n\nTitle\n\n\n\nJournal\n\n\n\nYear\n\n\n\nSummary\n\n\n\nFulltext\n\n\n\n\n\n\n\n\n \n\n\nEncoding-Modelling Theory (AET): A Pre-formal Theory of Modelling\n\n\nZenodo Preprint\n\n\n2026\n\n\nA precursor formulation of Ambiance-Encoding Theory (AET), proposing a framework that separates empirically accessible physical systems (ambiance space) from their formal mathematical representations (encoding space). The work outlines validation requirements for scientific models, including explicit ambiance specification, justified encoding schemes, and classification of structures as either ambiance-invariant or encoding artifacts.\n\n\npdf\n\n\n\n\n\n\n \n\n\nArtificial Intelligence – On Philosophical Arguments, Technical and General Landscape\n\n\nZenodo Preprint\n\n\n2026\n\n\n \n\n\npdf\n\n\n\n\n\n\n \n\n\nQuantum Theory of Ettingshausen Effect in Quantum Wells: A Review\n\n\nZenodo Preprint\n\n\n2026\n\n\n \n\n\npdf\n\n\n\n\n\n\n \n\n\nQuantum Well Structure and Nonlinear Absorption Interaction: A Review\n\n\nZenodo Preprint\n\n\n2026\n\n\n \n\n\npdf\n\n\n\n\n\n\n \n\n\nFoundations of Artificial Intelligence Frameworks: Notion and Limits of AGI\n\n\narXiv Preprint\n\n\n2025\n\n\n \n\n\npdf\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "contents/news/news_page/news_2026_04_25.html",
+    "href": "contents/news/news_page/news_2026_04_25.html",
+    "title": "Progress Update, April 25th 2026",
+    "section": "",
+    "text": "Here, we are. Welcome to the first news report. We are being very unserious here, though, so take a hint. So, well, at least for me, the detailed notes and backlogs I need to resolve about RHINELAB is…\n\nReorganize and make personel sheet for the lab. Done.\nFill in the research proposal and topic.\nWrite the logistics part.\nWrite a manifesto or statement about AI usage and coding preference.\nCompleting and advancing works of MTAIL - i.e. the new Double Descent laboratory.\nExpand the coding implementation of MTAIL-DD project into active form of web-based exposure and testing, validation and well simply say, that.\nWrite down the pedagogy proposal and the new organization of the pedagogy section. Similar for organization note of the AI team and so on.\nFix the member details part.\n\nWhich is quite a lot. I don’t know when will this be over, but, it will not be over. Yes. I need to fix the other details. But either way, this is the first instance of using this note for anything, so I will leave it up here, and continue to push or calculate more on the RHINELAB system. Which, in turns, might be good."
+  },
+  {
+    "objectID": "contents/news/more-news.html#media",
+    "href": "contents/news/more-news.html#media",
+    "title": "News",
+    "section": "Media",
+    "text": "Media"
+  },
+  {
+    "objectID": "contents/events/events.html",
+    "href": "contents/events/events.html",
+    "title": "Events",
+    "section": "",
+    "text": "To be fair, there are quite nothing."
+  },
+  {
+    "objectID": "contents/actions/research/laboratory/theoretical_AI.html",
+    "href": "contents/actions/research/laboratory/theoretical_AI.html",
+    "title": "Modelling, Theoretical Artificial Intelligence and Learning-theoretic Group (MTAIL)",
+    "section": "",
+    "text": "This is the page for the MTAIL theoretical group. Some of the projects that we would be working here can be seen in the specific websites itself, as most operations are settled up there."
+  },
+  {
+    "objectID": "contents/actions/research/laboratory/theoretical_AI.html#laboratory-details",
+    "href": "contents/actions/research/laboratory/theoretical_AI.html#laboratory-details",
+    "title": "Modelling, Theoretical Artificial Intelligence and Learning-theoretic Group (MTAIL)",
+    "section": "Laboratory details",
+    "text": "Laboratory details\nThe laboratory is in formation, but it is inherited from the Double Descent - Statistical Learning Theory Research Group, that used to focus mainly on artificial intelligence, the phenomena of double descent in machine learning, and reforming or analyzing statistical learning frameworks of present, back to Valiant’s PAC-learning theory.\n\nContact and events\nThe main website for the group is on the link here to MTIL. This page would from now be reserved for analysis and introduction or notification, news update only.\nUpcoming events (planned) include:\n\nSeminar on theoretical modelling approach - June 24th 2026."
+  },
+  {
+    "objectID": "contents/actions/research/laboratory/Nuclear_Physics_Group.html",
+    "href": "contents/actions/research/laboratory/Nuclear_Physics_Group.html",
+    "title": "Nuclear Physics Group",
+    "section": "",
+    "text": "Awaiting team leader for information."
+  },
+  {
+    "objectID": "contents/actions/research/laboratory/AI_Group.html",
+    "href": "contents/actions/research/laboratory/AI_Group.html",
+    "title": "Artificial Intelligence Group",
+    "section": "",
+    "text": "Awaiting information from team leader."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "RHINELAB-RINALAB Group",
+    "section": "",
+    "text": "The RHINELAB-RINALAB theoretical research laboratory, or on presumption being theoretical physics, theoretical artificial intelligence and automata theories, is an open-source laboratory/research group focusing on the following list of topics:\n\nTheoretical computer science: the study of computer or generally, dynamic processing constructs, of whom are to be said of automatic(on), and their structural configurations.\nMathematical studies of abstract objects.\n\nTheory of modelling.\nTheoretical artificial intelligence and artificial intelligence deployment system (LLM, which falls into that category).\nPhysical system modelling and theoretical evaluations.\n\nAt the current stage of development, we are mostly concerned with the theoretical aspect, including touching on simulation and stress-testing systems. Because of the lacking in manpower, which is expected during the formation phase, currently active direction, labelled as laboratory directive, contains the following sects as listed below: RHINE-MTAIL, RHINE-MAPR, RHINE-TAAI, and RHINE-EPEFORM.\n\n\nRHINELAB is founded on the vision and preparation, philosophy and thereof from Bui Gia Khanh (or can be called 藤宮天音/Fujimiya Amane), an undergraduate student, in major of Physics and focused on degree to theoretical physics and mathematical analysis. However, aside from such, his focus is coherently broad, with interests being in neuroscience or foundational/computational neuroscience, theoretical Artificial Intelligence (TAI) analysis, statistical learning theory and adjacent conjunction that makes up learning theory, computational biology and/or foundational biology in specificity, foundational mathematics and its related topics, and a broader scheme of philosophy, applied/natural science and more. His specialties are also modelling theory, and the problem of ‘mathematical operationalization’, M-oper, about descriptions and specifications turn into actualizable 1 and operationable objects or constructs in practice, and the gap between them. Most of what the laboratory does circles around the system of knowledge from what he wrote of the manifesto and directives on.\n\n\n\n\n\n\nFirst actual lab meeting that has any picture to show for, so yes.\n\n\nAlright, now comes the location.\n\nlibrary(leaflet)\nleaflet(height = 500) %&gt;%\n  addTiles() %&gt;%  \n  addMarkers(lng = 105.825472, lat = 21.005333, popup = \"RHINELAB Operating Room\")\n\n\n\n\n\nThis is where the current ‘office’ of RHINELAB are situated within, and I would say we are doing quite well with how the operations are going. To be in truth, I feel like we are progressing for material accumulation pretty much alright.\n\n\n\n\n\n\nImportant\n\n\n\nRecently, basing on a new organization template, the laboratory decided to change from Group to Division for its uppermost bracketing. This means that everyone will be in departments as nominal for now, resultant consequences later, even then though, we will have hierarchy down below it.\nHis vision and purpose embedded to RHINELAB (or more so of its second name as RINALAB), is to be an open-source, open-discourse, open-knowledge with caveat, research and foundational knowledge laboratory, laying on the principle of principle logistics and question-generative research - where the main goal of research is to ask more questions, correctly so. Explicitly stated, the organization, owned by him as it is, focus on its intellectual contents and resources to be \\((i)\\) contextually open-source, accessible for all aside from private and sensitive operational and managerial information, \\((ii)\\) every question, every intellectual discourse or argument debate are to be, in conjunction with rules of expression, accepted of discussions and existence; this is extended to open-knowledge, that is, ideally that the lab would try to do and experiment on this mode is to expose all intellectual results to the public space governed by the lab system, auditing research movements within rules and attribution of the people created those resources, and so on. Furthermore, \\((iii)\\), he aims for the creation and crystallization of foundational investigation and research, as the core research arrow of the laboratory to investigate deep, recreating and capture foundations and further spin-out knowledge rather than just consumption or relying on source availability 2 - it also means one of the main goal of the lab is to build on itself, a basis of knowledge and library of Alexandria for RHINELAB in its entirety. Finally, \\((iv)\\), he emphasizes the need for researching and deploying logistical support and smoothing for researcher, the researching machines and constructs. He believes that without principle logistics, something like Occam’s razor, then research would be tiresome, hard, difficult with high barrier of entries, and tedious beyond measure of what is required."
+  },
+  {
+    "objectID": "about.html#footnotes",
+    "href": "about.html#footnotes",
+    "title": "RHINELAB-RINALAB Group",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nIn short, this means for the object or any given writing, specification “on paper” to be fully realized, perhaps physically or concretely speaking, that can be manipulated, identified, with actions available, for forms consistent and limited.↩︎\nThis simply means that we do not just accept there is a review by someone, a textbook or any sources then move on, but to recrystallize our understanding of sort, and creating our own knowledge encyclopaedia.↩︎"
+  },
+  {
+    "objectID": "contents/actions/research/laboratory/Math_Physics_Group.html",
+    "href": "contents/actions/research/laboratory/Math_Physics_Group.html",
+    "title": "Mathematical and Physical Research Group",
+    "section": "",
+    "text": "Welcome to the RHINE-MAPR - Mathematical and Physical Research Group, a laboratory section of RHINELAB focuses on researching the foundation, the inherent details and non-trivial ‘just a theory, quantum mechanics is there and just use it’ (for example, obviously), and the re-concretization of theoretical and practical knowledge, in a coherent and from scratch altitude 1."
+  },
+  {
+    "objectID": "contents/actions/research/laboratory/Math_Physics_Group.html#active-members",
+    "href": "contents/actions/research/laboratory/Math_Physics_Group.html#active-members",
+    "title": "Mathematical and Physical Research Group",
+    "section": "Active members",
+    "text": "Active members\nThere are a few foundational members of the lab in operation, and much of them are for now,in the list of active members are tasked with either physics or mathematical analysis, and foundational review before jumping to any tasks afterward. Thence, we have currently.\n\nTran Cong Long - core member\nBui Gia Khanh (Fujimiya Amane) - core member\nHa Thi Thuy Linh - core member\nTran Minh Vu (Yuki Makoto) - core member\nLe Minh Anh\nNguyen Hoang Huy\nDo Quang Binh\nNgo Quang Huy - core member\nNguyen Thu Trang\n\nThere are three even core members of this group, which is targetted of who to be the Director of each sub-strata of the laboratory, and the former only person at the lab initially: (1) Bui Gia Khanh is the leader of RHINELAB as a whole, (2) Tran Cong Long is the leader of RHINELAB Mathematics and Theoretical Physics subgroup, (3) Ha Thi Thuy Linh is the leader of RHINELAB Nuclear Physics subgroup."
+  },
+  {
+    "objectID": "contents/actions/research/laboratory/Math_Physics_Group.html#working-and-principles",
+    "href": "contents/actions/research/laboratory/Math_Physics_Group.html#working-and-principles",
+    "title": "Mathematical and Physical Research Group",
+    "section": "Working and principles",
+    "text": "Working and principles\nFor now, let us introduce briefly of the details concerning the members of RHINELAB Physics Group Members, and what we are to expect people working inside this fundamental angle of research. Within this group we investigate and research problems in the field of Physics, in general. The hierarchy of the group will be as follows, starting as a branching office from RHINELAB in full. \\[\n\\text{RHINELAB Physics Group}\\rightarrow\\left\\{\\begin{matrix}\n\\text{Mathematics and Theoretical Physics Subgroup}\\\\\n\\text{Nuclear Physics Subgroup} \\\\\n\\text{Mathematics and Foundation Building Subgroup}\n\\end{matrix}\\right.\n\\] And, subsequently, for RHINELAB Physics Group, such includes some of the major research anecdotes that are of focus for foundation of physical knowledge as we realize it so: \\[\n\\text{RHINELAB Physics Group}\\rightarrow\n\\left\\{ \\begin{matrix}\n\\text{Mathematical Physics}\\\\\n\\text{Statistics and Probability Theory} \\\\\n\\text{Quantum Physics} \\\\\n\\text{Theoretical Nuclear Physics}\n\\end{matrix} \\right.\n\\]\nThe focus, and the contents in specificity of focus can be and will be different later on, however within the scope of foundational build-up of present, the plan is to rely on those fields to establish a sound foundation before attempting any serious works."
+  },
+  {
+    "objectID": "contents/actions/research/laboratory/Math_Physics_Group.html#research-projects-and-directives",
+    "href": "contents/actions/research/laboratory/Math_Physics_Group.html#research-projects-and-directives",
+    "title": "Mathematical and Physical Research Group",
+    "section": "Research Projects and Directives",
+    "text": "Research Projects and Directives\nThis section is dedicated to the listing and presentation of research projects and directives. For more information, we need a statement report, which is underway.\nThe current research directive of the group is to first, build the knowledge foundations of the group by doing studies on their subject of interest. As of 22/04/2026, only the subgroups: (1) Mathematics and Theoretical Physics Subgroup and (2) Nuclear Physics Subgroup are operating.\n\nMathematics and Theoretical Physics Subgroup\nCurrently, in writing stage. Note that the document codes are universal of all the laboratory, so by ordering prefixes, those are what typically of.\n\nRES-PROP-01: A proposal of a research concerning a problem of cancellations.\nRES-PROP-03: A proposal of a research concerning the linguistics investigation of the theory of Partial Differential Equations and the Navier-Stokes Equations.\n\n\n\nNuclear Physics Subgroup\nWaiting for subgroup leader to fill in.\n\n\nFoundations Building Group\nFrom the foundational build-up group, those are the few proposals at present.\n\nREP-RP-03: Mathematical Physics report.\nPED/FND-PROP-02: Nuclear Physics report proposal.\nPED/FND-PROP-03: Statistics and Probability Theory report proposal.\nREP/FND-RP-04: Ring Theory report.\nPED/FND-PROP-04: Foundational Physics Fill-up\n\nMost of them are in consideration of nuclear physics, mathematical physics, probability theory, and ring theory in certain specific sense.\n\n\nMore details on subgroups\n\nMathematics and Theoretical Physics Subgroup\nThis subgroup currently have two (2) people, that being Tran Cong Long and Bui Gia Khanh (Fujimiya Amane). In this subgroup we investigate foundations of physics, mathematical modelling in physics, (to be filled in more).\n\n\nNuclear Physics Subgroup\nThis subgroup currently have two (2) people, that being Ha Thi Thuy Linh and Nguyen Hoang Huy. Research directive pending.\n\n\nCurrent Foundation Building Subgroup\nThis subgroup is dedicated for people currently building the foundational knowledge . This group currently contains four (4) people:\n\nTran Minh Vu: currently on astrophysics.\nLe Minh Anh: probability theory.\nNguyen Hoang Huy: nuclear physics and particle physics.\nDo Quang Binh: Theoretical physics.\n\nMost of the time, well they are alright of their own merits. The targets are pointed, most of the time because they would like to set up different traditions altogether.\n\nCurrent state, April 24th, 2026."
+  },
+  {
+    "objectID": "contents/actions/research/laboratory/Math_Physics_Group.html#footnotes",
+    "href": "contents/actions/research/laboratory/Math_Physics_Group.html#footnotes",
+    "title": "Mathematical and Physical Research Group",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nIt also means we reject framing about mathematical superiority, nor the view that physical world are just there and we can capture them all, on both side. Additionally, pure mathematics are researched here, but the epistemology means we reject the framing that math is simply the prime matter of the world - everything is math, and furthermore that no views are not contested, and are not allowed to be said without being berated, abstraction view of math, etc., like usual in the mathematical community, which is a pain.↩︎"
+  },
+  {
+    "objectID": "contents/actions/research/laboratory/Pedagogy_Group.html",
+    "href": "contents/actions/research/laboratory/Pedagogy_Group.html",
+    "title": "Pedagogy Group",
+    "section": "",
+    "text": "Awaiting writing from team leader."
+  },
+  {
+    "objectID": "contents/actions/research/research.html",
+    "href": "contents/actions/research/research.html",
+    "title": "Research & Initiatives",
+    "section": "",
+    "text": "There are not a lot to talk about, however, the page here are organized such that contents are most often considered in departments, with their respective specificity of contents in each. So, so far so good. Currently, five groups are available on entry, with one focus on explicitly pedagogy and foundational build-up."
+  },
+  {
+    "objectID": "contents/actions/research/research.html#research",
+    "href": "contents/actions/research/research.html#research",
+    "title": "Research & Initiatives",
+    "section": "Research",
+    "text": "Research\nThe following table outlines the currently active groups of research interest.\n\n\n\n\n\n\n \n\n\n\nTitle\n\n\n\nDescription\n\n\n\n\n\n\n\n\n\n\n\nModelling, Theoretical Artificial Intelligence and Learning-theoretic Group (MTAIL)\n\n\n\n\n\n\n\n\n\n\n\n\nMathematical and Physical Research Group\n\n\n\n\n\n\n\n\n\n\n\n\nArtificial Intelligence Group\n\n\n\n\n\n\n\n\n\n\n\n\nNuclear Physics Group\n\n\n\n\n\n\n\n\n\n\n\n\nPedagogy Group\n\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "contents/HR/HR1.html",
+    "href": "contents/HR/HR1.html",
+    "title": "People",
+    "section": "",
+    "text": "We have a few members for now, so I figured this would be a good opportunity to serve of sort. The main people of the lab can be separated into Director with the manager or administrative roles, and coming to laboratory members with respective to group and supgroup on research partition.\n\n\n\n\n\n\n\nOfficially of Core Management Division for RHINELAB, Founder and Principle Researcher.\n\nAcademic Affiliation: Hanoi University of Science, Vietnam National University.\nContact/Profile Links: LinkedIn, ORCID, Main blog post, Research page (personal).\n\n\n\n\nCo-founder, Core Management Division and Leader of Nuclear Physics section of RHINELAB.\n\nAcademic Affiliation: Hanoi University of Science, Vietnam National University. Currently pursuing MSc. at Vietnam National University, and is an active early-career researcher at VINATOM (Atomic Energy Institute of Vietnam).\n\n\n\n\nCo-founder, Director, MTAIL Research Laboratory\n\nAcademic Affiliation: COMSAT University Islammabad, Islammabad, Pakistan.\n\n\n\n\nCo-founder, Core Management Division and Leader of Mathematical and Physics section.\n\nAcademic Affiliation: Hanoi University of Science, Vietnam National University.\nContact/Profile Links: LinkedIn.\n\n\n\n\nCo-founder, Core Management Division, and Members of Mathematical and Physics section.\n\nAcademic Affiliation: Hanoi University of Science, Vietnam National University.\nContact/Profile Links: GitHub.\n\n\n\n\n\n\n\n\n\n\n\n\n\nResearcher, Applied AI Group.\n\nAcademic Affiliation: Hanoi University of Science and Technology (HUST).\nContact/Profile Links: LinkedIn\n\n\n\n\nResearcher, Applied AI and Foundational AI Group.\n\nAcademic Affiliation: Hanoi University of Science and Technology (HUST).\n\n\n\n\nResearcher, Applied AI and Foundational AI Group.\n\nAcademic Affiliation: Hanoi University of Science and Technology (HUST).\n\n\n\n\nResearcher, Applied AI and Foundational AI Group.\n\nAcademic Affiliation: Hanoi University of Science and Technology (HUST).\nContact/Profile Links: GitHub\n\n\n\n\nResearcher, Applied AI and Foundational AI Group.\n\nAcademic Affiliation: Hanoi University of Science, Vietnam National University.\nContact/Profile Links: GitHub\n\n\n\n\n\n\n\nSub-principle Researcher, MTAIL Research Laboratory\n\nAcademic Affiliation: Hanoi University of Science, Vietnam National University.\n\n\n\n\nResearcher, MTAIL Research Laboratory\n\nAcademic Affiliation: COMSAT University Islammabad, Islammabad, Pakistan.\nContact/Profile Links: Linkedin\n\n\n\n\n\n\n\n\n\n\n\n\nResearcher, Leader of Mathematics and Physics Research Group.\n\nAcademic Affiliation: Hanoi University of Science, Vietnam National University.\n\n\n\n\nResearcher, Member of Mathematics and Physics Research Group.\n\nAcademic Affiliation: Hanoi University of Science, Vietnam National University.\n\n\n\n\nResearcher, Member of Mathematics and Physics Research Group.\n\nAcademic Affiliation: Hanoi University of Science, Vietnam National University.\n\n\n\n\nResearcher, Member of Mathematics and Physics Research Group.\n\nAcademic Affiliation: Hanoi University of Science, Vietnam National University.\n\n\n\n\nResearcher, Member of Mathematics and Physics Research Group, Nuclear Physics Subgroup.\n\nAcademic Affiliation: Hanoi University of Science, Vietnam National University.\n\n\n\n\nResearcher, Member of Mathematics and Physics Research Group, Leader of Nuclear Physics Subgroup.\n\nAcademic Affiliation: Hanoi University of Science, Vietnam National University.\n\n\n\n\n\n\n\nResearcher, Principle Researcher of Pedagogy Group.\n\nAcademic Affiliation: Hanoi University of Science, Vietnam National University.\nContact/Profile Links: LinkedIn\n\n\n\n\nResearcher, Passive Researcher and Contributor of Pedagogy Group.\n\nAcademic Affiliation: Hanoi University of Science, Vietnam National University."
+  },
+  {
+    "objectID": "contents/HR/HR1.html#people-and-collaborators",
+    "href": "contents/HR/HR1.html#people-and-collaborators",
+    "title": "People",
+    "section": "",
+    "text": "We have a few members for now, so I figured this would be a good opportunity to serve of sort. The main people of the lab can be separated into Director with the manager or administrative roles, and coming to laboratory members with respective to group and supgroup on research partition.\n\n\n\n\n\n\n\nOfficially of Core Management Division for RHINELAB, Founder and Principle Researcher.\n\nAcademic Affiliation: Hanoi University of Science, Vietnam National University.\nContact/Profile Links: LinkedIn, ORCID, Main blog post, Research page (personal).\n\n\n\n\nCo-founder, Core Management Division and Leader of Nuclear Physics section of RHINELAB.\n\nAcademic Affiliation: Hanoi University of Science, Vietnam National University. Currently pursuing MSc. at Vietnam National University, and is an active early-career researcher at VINATOM (Atomic Energy Institute of Vietnam).\n\n\n\n\nCo-founder, Director, MTAIL Research Laboratory\n\nAcademic Affiliation: COMSAT University Islammabad, Islammabad, Pakistan.\n\n\n\n\nCo-founder, Core Management Division and Leader of Mathematical and Physics section.\n\nAcademic Affiliation: Hanoi University of Science, Vietnam National University.\nContact/Profile Links: LinkedIn.\n\n\n\n\nCo-founder, Core Management Division, and Members of Mathematical and Physics section.\n\nAcademic Affiliation: Hanoi University of Science, Vietnam National University.\nContact/Profile Links: GitHub.\n\n\n\n\n\n\n\n\n\n\n\n\n\nResearcher, Applied AI Group.\n\nAcademic Affiliation: Hanoi University of Science and Technology (HUST).\nContact/Profile Links: LinkedIn\n\n\n\n\nResearcher, Applied AI and Foundational AI Group.\n\nAcademic Affiliation: Hanoi University of Science and Technology (HUST).\n\n\n\n\nResearcher, Applied AI and Foundational AI Group.\n\nAcademic Affiliation: Hanoi University of Science and Technology (HUST).\n\n\n\n\nResearcher, Applied AI and Foundational AI Group.\n\nAcademic Affiliation: Hanoi University of Science and Technology (HUST).\nContact/Profile Links: GitHub\n\n\n\n\nResearcher, Applied AI and Foundational AI Group.\n\nAcademic Affiliation: Hanoi University of Science, Vietnam National University.\nContact/Profile Links: GitHub\n\n\n\n\n\n\n\nSub-principle Researcher, MTAIL Research Laboratory\n\nAcademic Affiliation: Hanoi University of Science, Vietnam National University.\n\n\n\n\nResearcher, MTAIL Research Laboratory\n\nAcademic Affiliation: COMSAT University Islammabad, Islammabad, Pakistan.\nContact/Profile Links: Linkedin\n\n\n\n\n\n\n\n\n\n\n\n\nResearcher, Leader of Mathematics and Physics Research Group.\n\nAcademic Affiliation: Hanoi University of Science, Vietnam National University.\n\n\n\n\nResearcher, Member of Mathematics and Physics Research Group.\n\nAcademic Affiliation: Hanoi University of Science, Vietnam National University.\n\n\n\n\nResearcher, Member of Mathematics and Physics Research Group.\n\nAcademic Affiliation: Hanoi University of Science, Vietnam National University.\n\n\n\n\nResearcher, Member of Mathematics and Physics Research Group.\n\nAcademic Affiliation: Hanoi University of Science, Vietnam National University.\n\n\n\n\nResearcher, Member of Mathematics and Physics Research Group, Nuclear Physics Subgroup.\n\nAcademic Affiliation: Hanoi University of Science, Vietnam National University.\n\n\n\n\nResearcher, Member of Mathematics and Physics Research Group, Leader of Nuclear Physics Subgroup.\n\nAcademic Affiliation: Hanoi University of Science, Vietnam National University.\n\n\n\n\n\n\n\nResearcher, Principle Researcher of Pedagogy Group.\n\nAcademic Affiliation: Hanoi University of Science, Vietnam National University.\nContact/Profile Links: LinkedIn\n\n\n\n\nResearcher, Passive Researcher and Contributor of Pedagogy Group.\n\nAcademic Affiliation: Hanoi University of Science, Vietnam National University."
+  },
+  {
+    "objectID": "contents/HR/HR1.html#advisor",
+    "href": "contents/HR/HR1.html#advisor",
+    "title": "People",
+    "section": "Advisor",
+    "text": "Advisor\nCurrently, we are just in confirmation. Nothing here, I guess."
+  },
+  {
+    "objectID": "contents/news/news.html",
+    "href": "contents/news/news.html",
+    "title": "News",
+    "section": "",
+    "text": "Progress Update, April 25th 2026\n\n\nRecent releases and media coverage, with a bunch of memes\n\n\n\n\n\n\n\n\n\n\n\n\n\nProgress Update, June 7th 2026\n\n\nRecent releases and media coverage, decisions, templates, and organization, and future works outlining\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "contents/publication/publications.html",
+    "href": "contents/publication/publications.html",
+    "title": "Featured Publications",
+    "section": "",
+    "text": "Order By\n      Default\n      \n        Title\n      \n      \n        Journal\n      \n      \n        Year - Oldest\n      \n      \n        Year - Newest\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\nEncoding-Modelling Theory (AET): A Pre-formal Theory of Modelling\n\n\nZenodo Preprint\n\n\nA precursor formulation of Ambiance-Encoding Theory (AET), proposing a framework that separates empirically accessible physical systems (ambiance space) from their formal…\n\n\n\nFeb 25, 2026\n\n\n\n\n\n\n\n\n\n\n\nArtificial Intelligence – On Philosophical Arguments, Technical and General Landscape\n\n\nZenodo Preprint\n\n\n\nFeb 1, 2026\n\n\n\n\n\n\n\n\n\n\n\nQuantum Theory of Ettingshausen Effect in Quantum Wells: A Review\n\n\nZenodo Preprint\n\n\n\nFeb 1, 2026\n\n\n\n\n\n\n\n\n\n\n\nQuantum Well Structure and Nonlinear Absorption Interaction: A Review\n\n\nZenodo Preprint\n\n\n\nFeb 1, 2026\n\n\n\n\n\n\n\n\n\n\n\nFoundations of Artificial Intelligence Frameworks: Notion and Limits of AGI\n\n\narXiv Preprint\n\n\n\nJan 1, 2025\n\n\n\n\n\n\nNo matching items\n\n\nMore Publications »"
+  },
+  {
+    "objectID": "contents/support/support.html",
+    "href": "contents/support/support.html",
+    "title": "Support and Contact",
+    "section": "",
+    "text": "We offer quite a few supports for projects and researches under our directives."
+  },
+  {
+    "objectID": "contents/support/support.html#contact-us-me",
+    "href": "contents/support/support.html#contact-us-me",
+    "title": "Support and Contact",
+    "section": "Contact us (me)",
+    "text": "Contact us (me)\n\n\n\nBui Gia Khanh (Fujimiya Amane)\nE-mail (private since I am poor): fujimiyaamane@outlook.com\n\n\n\n\nRHINELAB-RINALAB\nE-mail: rhinelab.rinalab@gmail.com"
+  }
+]

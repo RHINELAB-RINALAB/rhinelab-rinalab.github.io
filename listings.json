@@ -1,0 +1,27 @@
+[
+  {
+    "listing": "/contents/publication/more-publications.html",
+    "items": []
+  },
+  {
+    "listing": "/contents/actions/research/research.html",
+    "items": [
+      "/contents/actions/research/laboratory/theoretical_AI.html",
+      "/contents/actions/research/laboratory/Math_Physics_Group.html",
+      "/contents/actions/research/laboratory/AI_Group.html",
+      "/contents/actions/research/laboratory/Nuclear_Physics_Group.html",
+      "/contents/actions/research/laboratory/Pedagogy_Group.html"
+    ]
+  },
+  {
+    "listing": "/contents/news/news.html",
+    "items": [
+      "/contents/news/news_page/news_2026_04_25.html",
+      "/contents/news/news_page/news_2026_06_07.html"
+    ]
+  },
+  {
+    "listing": "/contents/publication/publications.html",
+    "items": []
+  }
+]

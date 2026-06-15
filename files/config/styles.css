@@ -1,0 +1,61 @@
+/* css styles */
+
+/* Make navbar, content, and footer have the same max-width and center them */
+.navbar .nav-container, 
+.navbar .container-fluid,
+.page-footer {
+    max-width: 1160px; /* Match body width */
+    margin-left: 0 auto;
+    margin-right: 0 auto;
+    float: none;
+  }
+
+/* Ensure the background color covers the whole screen */
+.navbar {
+  width: 100%;
+}  
+
+/* --- Center the last row of the 'research' grid listing --- */
+
+/* Case 1: id="research" on the listing container */
+#research.quarto-listing-container-grid .list.grid {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 1.5rem;
+  }
+  
+  #research.quarto-listing-container-grid .list.grid > div {
+    flex: 0 0 calc(25% - 1.5rem); /* ~4 columns */
+    max-width: 260px;
+  }
+  
+  /* Case 2: some Quarto versions use id="listing-research" */
+  #listing-research.quarto-listing-container-grid .list.grid {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 1.5rem;
+  }
+  
+  #listing-research.quarto-listing-container-grid .list.grid > div {
+    flex: 0 0 calc(25% - 1.5rem);
+    max-width: 260px;
+  }
+  
+  /* Responsive tweaks */
+  @media (max-width: 992px) {
+    #research.quarto-listing-container-grid .list.grid > div,
+    #listing-research.quarto-listing-container-grid .list.grid > div {
+      flex: 0 0 calc(50% - 1.5rem); /* 2 per row */
+    }
+  }
+  
+  @media (max-width: 576px) {
+    #research.quarto-listing-container-grid .list.grid > div,
+    #listing-research.quarto-listing-container-grid .list.grid > div {
+      flex: 0 0 100%; /* 1 per row */
+    }
+  }
+
+
